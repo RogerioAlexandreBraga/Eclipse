@@ -6,5 +6,7 @@ public class GitHub {
 		
 		System.out.println("Configuração GitHub Iniciada");
 		System.out.println("Configuração GitHub Finalizada");
+		System.out.println("Configuração Após Reparo do Windows");
+		
 	}
 }
