@@ -4,8 +4,9 @@ public class GitHub {
 
 	public static void main(String[] args) {
 		
-		System.out.println("AtualizaÁ„o 01");
-		System.out.println("AtualizaÁ„o 02");
-		System.out.println("AtualizaÁ„o 03");
+		System.out.println("Atualiza√ß√£o 01");
+		System.out.println("Atualiza√ß√£o 02");
+		System.out.println("Atualiza√ß√£o 03");
+		System.out.println("Atualiza√ß√£o 04");
 	}
 }
