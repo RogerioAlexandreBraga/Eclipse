@@ -6,5 +6,6 @@ public class GitHub {
 		
 		System.out.println("Teste de Configuração 01");
 		System.out.println("Teste de Configuração 02");
+		System.out.println("Teste de Configuração 03");
 	}
 }
