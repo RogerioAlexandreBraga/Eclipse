@@ -1,2 +1,2 @@
-# Eclipse
-Eclipse-IDE-Enterprise-Java-Developer
+# Java-Developer
+Java-Developer
